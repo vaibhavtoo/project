@@ -1,3 +1,4 @@
+#Dividing a tone into its constituents 
 from manimlib.imports import*
 import numpy as np
 
