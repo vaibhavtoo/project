@@ -1,3 +1,4 @@
+#FT of square pulse
 from manimlib.imports import *
 import numpy as np
 
