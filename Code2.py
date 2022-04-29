@@ -1,3 +1,4 @@
+#colours analogy
 from manimlib.imports import*
 import numpy as np
 
