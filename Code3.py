@@ -95,6 +95,4 @@ class fourierSeries(GraphScene,MovingCameraScene):
         self.wait(0.5)
         self.play(self.camera_frame.set_width,14,self.camera_frame.move_to,0,FadeOut(circleMark),FadeOut(text))
         self.wait(2)
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
